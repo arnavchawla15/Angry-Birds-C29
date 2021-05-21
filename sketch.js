@@ -49,7 +49,7 @@ function draw(){
 
     ground.display();
     platform.display();
-    
+
     pig1.display();
     log1.display();
 
